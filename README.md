@@ -23,7 +23,7 @@ https://www.construct.net/en/free-online-games/unifacef-75935/play
 
 
 TELA INICIO - CONSTRUCT3:
-[https://i.postimg.cc/5yn4s4V7/Whats-App-Image-2025-04-25-at-15-16-45.jpg]
+<img src = "https://i.postimg.cc/5yn4s4V7/Whats-App-Image-2025-04-25-at-15-16-45.jpg">
 
 TELA FIM DE JOGO - RANKGIN:
 [https://i.postimg.cc/sxXxdQwd/Whats-App-Image-2025-04-25-at-15-17-18.jpg]
